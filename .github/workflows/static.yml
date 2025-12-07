@@ -32,9 +32,11 @@ jobs:
           REACT_APP_API_BASE: ${{ secrets.REACT_APP_API_BASE }}
         run: npm run build
 
-      - name: Add SPA fallback
+      - name: Add SPA fallback and disable Jekyll
         working-directory: frontend/build
-        run: cp index.html 404.html
+        run: |
+          cp index.html 404.html
+          touch .nojekyll
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
