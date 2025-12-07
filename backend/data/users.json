@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "email": "admin@sociallyapp.org",
+    "password": "$2a$10$pcEQBQ0mQ0lkBbjGDTteW.t1DV4zLXwh87qwTS4JAKnIybjpprkoO",
+    "avatar": "https://api.sociallyapp.org/uploads/1763429750193-Socially logo.png",
+    "bio": "Platform Owner",
+    "createdAt": "2025-11-17T22:32:16.105Z",
+    "followers": [],
+    "following": [],
+    "friends": [],
+    "verificationCode": "297699",
+    "verificationCodeExpires": 1764853821049,
+    "verified": true,
+    "twoFA": {
+      "enabled": true,
+      "secret": "ONRWI4K2MFPHQ6BRKBHEU5CUJ55HS3C5INNUAI3HKBGDQT2OORVQ"
+    },
+    "fcmToken": "di3W0nU2uhKJUUxCYrsS_b:APA91bEnp7PkAlMT4lxj91qrxreZ4OrxtYtAEQ3hawrXsZ6BMBJNCghV0FyyFdMDATcUarQIpB-mPQCyh-r189ZgrzIURO8eLgVhJliCChk0h8aciCY7v8g",
+    "phone": "+16148521268",
+    "phoneVerificationCode": "480449",
+    "phoneVerificationExpires": 1765073439627,
+    "phoneVerified": false,
+    "pushSubscription": {
+      "endpoint": "https://updates.push.services.mozilla.com/wpush/v2/gAAAAABpNN704GNaXgJh-UrxWwgHglLulIiO0zaSFyF9PjbNMFr1xZ0NsURUZW-daAUnR67L63Cu_BZJzI49LjGOMWQzfcOW7UoPFtm532iTYsyvT-Tn7m1Xg6NLHt_QKekT61TtiTJKKW-bKAyqjnSC9D3qzTCXhWmH0pSn-z1IX6veYPVNPFQ",
+      "expirationTime": null,
+      "keys": {
+        "auth": "DqMNq2RZUMsVmk6Hnj4FsA",
+        "p256dh": "BJJkj0tpDV0RtMsk14XoGSa8SyKYc43VjZN3IwUoqDybWZ0YHtCKuP-owdkwPEmCw8bgYE7kES_YRMGGfdv40eY"
+      }
+    }
+  },
+  {
+    "id": "11127a7f-6e0f-4d88-9982-cfe379fa618d",
+    "username": "Bobbi",
+    "email": "bobbi.hain@gmail.com",
+    "password": "$2a$10$CnOxRQDGI39UkIpwbz54k.kgJzcJSkAvZzimpMkN5zlSg96JUARzi",
+    "avatar": "https://api.sociallyapp.org/uploads/1763760428209-Socially logo.png",
+    "bio": "",
+    "createdAt": "2025-11-18T01:10:28.618Z",
+    "followers": [],
+    "following": [],
+    "friends": []
+  },
+  {
+    "id": "b097cc77-4ae0-40a7-ac70-921a48732e5a",
+    "username": "a",
+    "email": "masonhaingpt@gmail.com",
+    "password": "$2a$10$gN9xxvk7QXjuqvb3qJSxeObO3j5rxVVyb83fPncT062vz/pDvTJIi",
+    "avatar": null,
+    "bio": "",
+    "createdAt": "2025-12-03T03:25:56.151Z",
+    "followers": [],
+    "following": [],
+    "friends": []
+  },
+  {
+    "id": "0fb4149c-3421-475d-98a8-1bd234ce1874",
+    "username": "testuser1",
+    "email": "testuser1@test.com",
+    "password": "$2a$10$Xon7z.uXCxJP2xEdiAbzLeVdWAiIYRErsIKG6h3d/AA5brLCiud/e",
+    "avatar": null,
+    "bio": "",
+    "createdAt": "2025-12-04T12:42:35.799Z",
+    "followers": [],
+    "following": [],
+    "friends": []
+  },
+  {
+    "id": "cc3f9dff-05e5-4503-8bc5-9fa0e8a9cb33",
+    "username": "testuser2",
+    "email": "testuser2@test.com",
+    "password": "$2a$10$cCUn/O2sAOE2cAumrEjLJemtoN1vAXYqr5TznDVQX7gqx5YA8WzS6",
+    "avatar": null,
+    "bio": "",
+    "createdAt": "2025-12-04T12:42:52.335Z",
+    "followers": [],
+    "following": [],
+    "friends": []
+  },
+  {
+    "id": "4035ec98-f2dc-4890-aa88-a0c33d1f79f5",
+    "username": "testuser3",
+    "email": "testuser3@test.com",
+    "password": "$2a$10$bhLxnD5Ukkw2NH9rskf8zOz9AQCS1HxoGxmHkNE.Q93OelBolBFWS",
+    "avatar": null,
+    "bio": "",
+    "createdAt": "2025-12-04T12:42:52.845Z",
+    "followers": [],
+    "following": [],
+    "friends": []
+  },
+  {
+    "id": "513882b3-2c7e-49fa-9339-ef9dad8ae2f7",
+    "username": "testuser4",
+    "email": "testuser4@test.com",
+    "password": "$2a$10$72tO5FryMlyl.RPETECUDOfNIUR3KuURjsDUb/9gPyCRqauJlLrS2",
+    "avatar": null,
+    "bio": "",
+    "createdAt": "2025-12-04T12:43:29.740Z",
+    "followers": [],
+    "following": [],
+    "friends": []
+  }
+]
