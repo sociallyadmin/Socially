@@ -1,1 +1,11 @@
+ .DS_Store
+ node_modules/
+ .env
+ .env.*
+ frontend/build/
+ backend/dist/
+ socially-application-firebase-adminsdk-*.json
+ backend/socially-*-firebase-adminsdk-*.json
+ firebase-*.json
+ .vscode/
 node_modules
